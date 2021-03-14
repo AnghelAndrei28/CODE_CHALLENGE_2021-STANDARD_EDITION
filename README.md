@@ -8,10 +8,10 @@ This was the first international coding contest I ever took part in. It was a me
 - Place: 250th
 - Points: 17.705.493.886 pts
 
-## Contribuitor
+## Team
 
 * [Ciurea Robert](https://github.com/Robert12-git)
 
 ### Content
 
-The first directory
+The first directory contains the code with which we got our final result, while the second directory contains the code that we tried to implement at the end of the contest.
