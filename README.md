@@ -15,3 +15,7 @@ This was the first international coding contest I ever took part in. It was a me
 ### Content
 
 The [first directory](https://github.com/AnghelAndrei28/CODE_CHALLENGE_2021-STANDARD_EDITION/tree/main/Official%20code) contains the code with which we got our final result, while the second directory contains the code that we tried to implement at the end of the contest.
+
+### Certificate
+
+<img src=Screenshots/Certificate.gif>
